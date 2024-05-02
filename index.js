@@ -69,7 +69,7 @@ ScrollReveal().reveal('.home-content p, .about-content',{origin:'right'});
 
 const typed=new Typed('.multiple-text',
 {
-    strings:['Data Analyst','Mobile App Developer','Passionate about machine learning'],
+    strings:['Mobile App Developer','Passionate about machine learning'],
     typeSpeed:100,
     backSpeed:100,
     backDelay:1000,
